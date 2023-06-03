@@ -29,13 +29,13 @@ _- Si en algún momento recibe un mensaje del numero del Bot y no es un comando 
 *- https://github.com/BochilGaming/games-wabot-md*
 
 *➤ Agradecimientos a:*
-*- Unx21*
-*- Narutomo*
-*- BochilGaming*
-*- Unxteam*
-*- Bochilteam*
-*- ConfuMods*
-*- Theh2so4*
+*- RAYS*
+*- ANGELES*
+*- SEYBERT*
+*- WAR-HAMMER*
+*- CR7*
+*- EL BICHO*
+*- TU MAMÁ*
 *- Hiro*
 *- The.sad.boy01*
 *- botstylee*
