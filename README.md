@@ -5,9 +5,9 @@
 # `⚔️  THE SEIBERT BOT  🛡️`
 
 <div align="center">
-<img src="https://images7.alphacoders.com/680/680416.jpg"  width="500" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6jUQGfF6k9aqDbaCaDzMQrtzBcDf-xtIW2Q&usqp=CAU"  width="500" />
 
-
+<div align="left">
 ### `—◉ 🔗 CUENTAS OFICIALES 🔗`
 
 * https://www.atom.bio/theshadowbrokers-team
