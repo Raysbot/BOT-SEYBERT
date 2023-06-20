@@ -27,4 +27,4 @@ conn.sendMessage(m.chat, { image: { url: pp }, caption: str }, { quoted: m })
 handler.help = ['profile [@user]']
 handler.tags = ['xp']
 handler.command = /^perfil|profile?$/i
-export default handler.
+export default handler
